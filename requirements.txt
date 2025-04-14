@@ -1,0 +1,17 @@
+pandas
+time
+numpy
+kagglehub
+nltk
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+wordcloud
+google-api-python-client
+langdetect
+emoji
+Sastrawi
+googletrans
+tqdm
+vaderSentiment
