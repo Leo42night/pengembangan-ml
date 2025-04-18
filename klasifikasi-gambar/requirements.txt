@@ -1,0 +1,7 @@
+kagglehub
+split-folders
+tensorflow
+tensorflowjs
+matplotlib
+pillow
+numpy
